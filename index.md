@@ -77,6 +77,6 @@ from DML to related fields in computer vision and pattern recognition, such as c
 ---
 ### Announcements
 
-<b>Feb 12, 2022</b> &emsp; Our tutorial has been accepted to CVPR 2022! <br>
+<b>Feb 15, 2022</b> &emsp; Our tutorial has been accepted to CVPR 2022! <br>
 <b>Apr 04, 2022</b> &emsp; More information to come soon, stay tuned.
 
