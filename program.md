@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Program
+title: Deep Visual Similarity and Metric Learning
 rank: 3
 ---
-# In our Tutorial we will cover the following
+# Program
+We will publish the content of our Tutorial soon, stay tuned!

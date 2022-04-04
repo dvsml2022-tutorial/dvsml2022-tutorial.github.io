@@ -15,7 +15,8 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class="masthead" role="banner">
+    <!--<header class="page-header" role="banner">-->
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
@@ -27,7 +28,7 @@
       {% endif %}
       <a href=index.html class="btn">Home </a>
       <a href=program.html class="btn">Program </a>
-      <a href=other_content.html class="btn">Other Content </a>
+      <a href=other_content.html class="btn">Awesome DVSML Papers </a>
       <!-- {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
