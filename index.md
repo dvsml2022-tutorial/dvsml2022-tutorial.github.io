@@ -39,7 +39,7 @@ from DML to related fields in computer vision and pattern recognition, such as c
 	&nbsp;
 
        	<div class="container">
-	<img class="circular_image" src="imgs/timo_crop.jpg"/>
+	<img class="circular_image" src="imgs/ismail.jpg"/>
 	<div class="content">
 	Ismail Elezi <br> Technical University of Munich <br> ismail.elezi@tum.de
 	</div>
@@ -57,7 +57,7 @@ from DML to related fields in computer vision and pattern recognition, such as c
 
   <div class="column">
        	<div class="container">
-	<img class="circular_image" src="imgs/timo_crop.jpg"/>
+	<img class="circular_image" src="imgs/jenny.jpg"/>
 	<div class="content">
 	Jenny Seidenschwarz <br> Technical University of Munich <br> j.seidenschwarz@tum.de
 	</div>
@@ -66,7 +66,7 @@ from DML to related fields in computer vision and pattern recognition, such as c
 	&nbsp;
 
        	<div class="container">
-	<img class="circular_image" src="imgs/timo_crop.jpg"/>
+	<img class="circular_image" src="imgs/laura_crop.jpg"/>
 	<div class="content">
 	Laura Leal-Taixe <br> Technical University of Munich <br> leal.taixe@tum.de
 	</div>
