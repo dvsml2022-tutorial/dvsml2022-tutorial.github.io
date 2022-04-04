@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Deep Visual Similarity Metric Learning Tutorial CVPR 2022
 
 You can use the [editor on GitHub](https://github.com/dvsml2022-tutorial/dvsml2022-tutorial.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
