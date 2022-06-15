@@ -4,6 +4,10 @@ title: Deep Visual Similarity and Metric Learning
 rank: 3
 ---
 
+This year, June 19 and 20 marks Juneteenth, a US holiday commemorating the end of slavery in the US, and a holiday of special significance in the US South. We encourage attendees to learn more about Juneteenth and its historical context, and to join the city of New Orleans in celebrating the Juneteenth holiday. You can find out more information about Juneteenth on the [CVPR homepage](https://cvpr2022.thecvf.com/recognizing-juneteenth)
+
+## Content
+
 Learning about visual similarity is crucial for a wide range of vision tasks, such as image clustering, face detection or image retrieval, thus laying the basis for everyday applications
 like smart arrangement of image collections on our smartphones, web-scale image search in our browser or recommending products while shopping online. Today, the predominant approach for
 learning visual representations that capture similarity is Deep Metric Learning, which specifically aims at retrieving objects and images from novel, unseen classes. Moreover, similarity
