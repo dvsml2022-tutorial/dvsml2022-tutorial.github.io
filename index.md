@@ -26,6 +26,7 @@ from DML to related fields in computer vision and pattern recognition, such as c
 <ul>
 <li><b>Time</b>: Sunday, 06/19/2022, 1:30pm CDT.</li>
 <li><b>Location</b>: Great Hall A, Ernest N. Morial Convention Center, New Orleans, Louisiana, USA</li>
+<li><b>Online</b>: Find the link in the official virtual platform of CVPR 2022</li>
 <li><b>Primary contact</b>: timo.milbich@iwr.uni-heidelberg.de, j.seidenschwarz@tum.de </li>
 </ul>
 
