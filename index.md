@@ -4,6 +4,8 @@ title: Deep Visual Similarity and Metric Learning
 rank: 3
 ---
 
+### Juneteenth in New Orleans
+
 This year, June 19 and 20 marks Juneteenth, a US holiday commemorating the end of slavery in the US, and a holiday of special significance in the US South. We encourage attendees to learn more about Juneteenth and its historical context, and to join the city of New Orleans in celebrating the Juneteenth holiday. You can find out more information about Juneteenth on the [CVPR homepage](https://cvpr2022.thecvf.com/recognizing-juneteenth)
 
 ## Content
@@ -19,17 +21,16 @@ DML formulations, <i>(iii)</i> the importance of data sampling in DML, <i>(iv)</
 from DML to related fields in computer vision and pattern recognition, such as contrastive learning, few-shot learning, transfer learning and face recognition.
 
 ---
-### Info
+## Info
 
 <ul>
-<li><b>Time</b>: Sunday, 06/19/2022, exact time TBD.</li>
+<li><b>Time</b>: Sunday, 06/19/2022, 1:30pm CDT.</li>
 <li><b>Location</b>: Great Hall A, Ernest N. Morial Convention Center, New Orleans, Louisiana, USA</li>
-<li><b>Online</b>: link TBD.</li>
 <li><b>Primary contact</b>: timo.milbich@iwr.uni-heidelberg.de, j.seidenschwarz@tum.de </li>
 </ul>
 
 --- 
-### Organizer
+## Organizer
 
 <div class="row">
   <div class="column">
@@ -77,10 +78,4 @@ from DML to related fields in computer vision and pattern recognition, such as c
 	</div>
   </div>
 </div>
-
----
-### Announcements
-
-<b>Feb 15, 2022</b> &emsp; Our tutorial has been accepted to CVPR 2022! <br>
-<b>Apr 04, 2022</b> &emsp; More information to come soon, stay tuned.
 
