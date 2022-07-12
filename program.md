@@ -18,15 +18,7 @@ rank: 3
 
 # Recording
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=YAW9vsdwRfA"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[<img src="Image_for_video.png">](https://www.youtube.com/watch?v=YAW9vsdwRfA)
 
 
 
