@@ -16,6 +16,8 @@ rank: 3
 | 4:30 - 4:50  | Towards Realistic Evaluation of OOD Generalization in DML <br /> (15 min + 5 min QA) | Timo Milbich | [Slides](Talks/06_cvpr22_tutorial_Eval_OOD.pdf) |
 | 4:50 - 5:10 | Connections between DML and other fields  <br /> (15 min + 5 min QA)  | Jenny Seidenschwarz | [Slides](Talks/07_cvp222_tutorial_DML_connections_to_other_fields.pdf) |
 
+# Recording
+
 <iframe
     width="640"
     height="480"
